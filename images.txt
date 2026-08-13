@@ -8,3 +8,4 @@ node
 falkordb/falkordb:latest
 pgvector/pgvector:pg16-bookworm
 redis:7-alpine
+milvusdb/milvus:v3.0.0
